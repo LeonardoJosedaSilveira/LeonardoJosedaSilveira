@@ -1,6 +1,4 @@
-<!-- references 
-
-
+<!--
 -->
 
 
@@ -15,11 +13,11 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums 
+- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### 🎧 Spotify Playing 🤘
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="RPG_LEO Spotify Playing" width="350" />](https://open.spotify.com/user/27b2p3k3mq2iboc81pf3js88h)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Leo Spotify Playing" width="350" />](https://open.spotify.com/user/27b2p3k3mq2iboc81pf3js88h?si=RE0un2NJSji1flYAtEs5vQ)
 
 ### Connect with me:
 
