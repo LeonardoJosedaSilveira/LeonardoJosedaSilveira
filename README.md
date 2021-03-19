@@ -1,7 +1,3 @@
-<!--
--->
-
-
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -15,14 +11,11 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+<!--
 ### 🎧 Spotify Playing 🤘
 
-<img src="https://open.spotify.com/embed/playlist/5JQOY69yVupdaLon0ISpRq" alt="Leo Spotify Playing" width="350" frameborder="0" allowtransparency="true" allow="encrypted-media" />(https://open.spotify.com/user/27b2p3k3mq2iboc81pf3js88h?si=RE0un2NJSji1flYAtEs5vQ)
-
-[[embed url="https://open.spotify.com/embed/playlist/5JQOY69yVupdaLon0ISpRq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media" embed]]
-
-<iframe src='//embed.gettyimages.com/embed/137668307?et=0kKQE3OQU06k6Y-tD9FdZA&sig=MuEspy0rbDdvg7lpUAk77Pwaha2oc1_tUWsZTdH6IHE=' width='594' height='475' frameborder='0' scrolling='no'></iframe>
-
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+-->
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -56,6 +49,9 @@
 <br />
 
 ---
+
+
+<!--
 
 ### 📺 Latest YouTube Videos
 
@@ -115,3 +111,5 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+>
