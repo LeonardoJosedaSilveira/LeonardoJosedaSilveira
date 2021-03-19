@@ -17,9 +17,9 @@
 
 ### 🎧 Spotify Playing 🤘
 
-[<img src="https://open.spotify.com/embed/playlist/5JQOY69yVupdaLon0ISpRq" alt="Leo Spotify Playing" width="350" frameborder="0" allowtransparency="true" allow="encrypted-media" />](https://open.spotify.com/user/27b2p3k3mq2iboc81pf3js88h?si=RE0un2NJSji1flYAtEs5vQ)
+<img src="https://open.spotify.com/embed/playlist/5JQOY69yVupdaLon0ISpRq" alt="Leo Spotify Playing" width="350" frameborder="0" allowtransparency="true" allow="encrypted-media" />(https://open.spotify.com/user/27b2p3k3mq2iboc81pf3js88h?si=RE0un2NJSji1flYAtEs5vQ)
 
-[<iframe src="https://open.spotify.com/embed/playlist/5JQOY69yVupdaLon0ISpRq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>]
+[<iframe src="https://open.spotify.com/embed/playlist/5JQOY69yVupdaLon0ISpRq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media">dasf</iframe>]
 
 <iframe src='//embed.gettyimages.com/embed/137668307?et=0kKQE3OQU06k6Y-tD9FdZA&sig=MuEspy0rbDdvg7lpUAk77Pwaha2oc1_tUWsZTdH6IHE=' width='594' height='475' frameborder='0' scrolling='no'></iframe>
 
