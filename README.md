@@ -19,6 +19,8 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Leo Spotify Playing" width="350" />](https://open.spotify.com/user/27b2p3k3mq2iboc81pf3js88h?si=RE0un2NJSji1flYAtEs5vQ)
 
+<iframe src="https://open.spotify.com/embed/playlist/5JQOY69yVupdaLon0ISpRq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
