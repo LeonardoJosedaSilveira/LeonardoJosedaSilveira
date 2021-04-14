@@ -23,7 +23,7 @@
 
 ### Eai Batuta, me chamo Leo bem vindo do meu Github 🤘
 
-EDITING - WORKING
+EDITING - 
 
 <!--
 ## I'm a Husband, Father, Developer, and Teacher!!
