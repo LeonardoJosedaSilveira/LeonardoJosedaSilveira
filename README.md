@@ -74,6 +74,7 @@ EDITING -
 ---
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeonardoJosedaSilveira)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeonardoJosedaSilveira)](https://github.com/anuraghazra/github-readme-stats)
 [https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJosedaSilveira&layout=compact)%5D(https://github.com/anuraghazra/github-readme-stats]
 
 [https://github-readme-stats.vercel.app/api?username=LeonardoJosedaSilveira&show_icons=true]
