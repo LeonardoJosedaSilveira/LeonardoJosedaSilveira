@@ -130,10 +130,10 @@ EDITING -
 
 <!-- <p> -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula&count_private=true&line_height=27) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonarDev&show_icons=true&theme=dracula&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeonardoJosedaSilveira&show_icons=true&theme=dracula&count_private=true&line_height=27) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJosedaSilveira&show_icons=true&theme=dracula&count_private=true)
 
 
- <img align="left" width="20px" alt="LeonardoJosedaSilveira GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LeonardoJosedaSilveira&theme=dark&show_icons=true&hide_border=true" /> 
+ <img align="left" width="100px" alt="LeonardoJosedaSilveira GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LeonardoJosedaSilveira&theme=dark&show_icons=true&hide_border=true" /> 
  
  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoJosedaSilveira" /> -->
 
