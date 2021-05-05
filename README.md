@@ -130,7 +130,9 @@ EDITING -
 
  <img align="left" alt="LeonardoJosedaSilveira GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LeonardoJosedaSilveira&theme=dark&show_icons=true&hide_border=true" />
 
- <img align="left" alt="LeonardoJosedaSilveira GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=LeonardoJosedaSilveira&show_icons=true&hide_border=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+ <img align="left" alt="LeonardoJosedaSilveira GitHub Stats" src="https://github.com/anuraghazra/github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJosedaSilveira&theme=dark&layout=compact" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJosedaSilveira&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
