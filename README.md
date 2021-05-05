@@ -129,7 +129,7 @@ EDITING -
 --> 
 
 <!-- <p> -->
- <img align="rigth alt="LeonardoJosedaSilveira GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LeonardoJosedaSilveira&theme=dark&show_icons=true&hide_border=true" /> 
+ <img align="right alt="LeonardoJosedaSilveira GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LeonardoJosedaSilveira&theme=dark&show_icons=true&hide_border=true" /> 
  
  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoJosedaSilveira" /> -->
 
