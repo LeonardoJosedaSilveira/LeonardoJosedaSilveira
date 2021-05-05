@@ -129,8 +129,10 @@ EDITING -
 --> 
 
 <!-- <p> -->
- <img align="left" alt="LeonardoJosedaSilveira GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LeonardoJosedaSilveira&theme=dark&show_icons=true&hide_border=true" />
+ <img align="left" alt="LeonardoJosedaSilveira GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LeonardoJosedaSilveira&theme=dark&show_icons=true&hide_border=true" 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJosedaSilveira&theme=dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+/>
 
 <!-- </p> -->
