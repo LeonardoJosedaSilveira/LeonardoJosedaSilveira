@@ -130,4 +130,7 @@ EDITING -
 
  <img align="left" alt="LeonardoJosedaSilveira GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LeonardoJosedaSilveira&theme=dark&show_icons=true&hide_border=true" />
 
-[leo](https://github-readme-stats.vercel.app/api?username=LeonardoJosedaSilveira&theme=dark&show_icons=true)
+ <img align="left" alt="LeonardoJosedaSilveira GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=LeonardoJosedaSilveira&theme=dark&show_icons=true&hide_border=true" />
+
+
+
