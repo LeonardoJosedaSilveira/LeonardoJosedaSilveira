@@ -137,7 +137,7 @@ EDITING -
  
  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoJosedaSilveira" /> -->
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJosedaSilveira&theme=dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJosedaSilveira&theme=dark&layout=compact&hide_border=true&width="400px")](https://github.com/anuraghazra/github-readme-stats)
 
 
 
