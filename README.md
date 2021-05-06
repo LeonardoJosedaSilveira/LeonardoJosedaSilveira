@@ -40,7 +40,7 @@ EDITING -
 ### Connect with me:
 
 [<img align="left" alt="Leonardo | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" />][linkedin]
-[<img align="left" alt="Leonardo | Portfólio" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2139/2139133.svg?token=exp=1620278206~hmac=78398ead0f63362a5aac2f275cf5161b" />][website]
+[<img align="left" alt="Leonardo | Portfólio" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2139/2139107.svg?token=exp=1620278197~hmac=68f65fb4603243e64a836c30e63eac63" />][website]
 [<img align="left" alt="Leonardo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
