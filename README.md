@@ -1,9 +1,11 @@
 <!-- referencias 
 
 Instruction - codeSTACKr - https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s
-friend example - LeonarDev - https://github.com/LeonarDev
+Friend example - LeonarDev - https://github.com/LeonarDev
 
-linkedin icon - linkedin - 
+Linkedin icon - linkedin - 
+Page icon - linkedin - 
+Instagram icon - linkedin - 
 
 -->
 
@@ -50,7 +52,7 @@ EDITING -
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist] teste
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
