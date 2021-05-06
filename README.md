@@ -19,7 +19,7 @@ Other icons - https://simpleicons.org/
 [website]: https://leonardojosedasilveira.github.io/
 
 [vscode]: coloqueOlinkAqui
-[webdevplaylist]: coloqueOlinkAqui
+[js]: coloqueOlinkAqui
 [webdevplaylist]: coloqueOlinkAqui
 [webdevplaylist]: coloqueOlinkAqui
 [webdevplaylist]: coloqueOlinkAqui
@@ -60,6 +60,13 @@ EDITING -
 
  
 [<img align="left" alt="Visual Studio Code" width="180px" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual-studio&logoColor=blue" />][vscode]
+[<img align="left" alt="Java Script" width="180px" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=yelow" />][js]
+
+
+
+
+
+
 
 
 
