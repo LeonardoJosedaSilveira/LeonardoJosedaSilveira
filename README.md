@@ -59,7 +59,7 @@ EDITING -
 ### Languages and Tools:
 
  
-[<img align="left" alt="Visual Studio Code" width="170px" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual-studio&logoColor=blue" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="180px" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual-studio&logoColor=blue" />][vscode]
 
 
 
