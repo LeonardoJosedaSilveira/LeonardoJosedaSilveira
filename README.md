@@ -1,7 +1,10 @@
 <!-- referencias 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+Instruction - codeSTACKr - https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s
+friend example - LeonarDev - https://github.com/LeonarDev
+
+linkedin icon - linkedin - 
+
 -->
 
 <!-- Links -->
@@ -39,7 +42,7 @@ EDITING -
 -->
 ### Connect with me:
 
-[<img align="left" alt="Leonardo | LinkedIn" width="25px" src="https://content.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" />][linkedin]
+[<img align="left" alt="Leonardo | LinkedIn" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/3773/3773706.svg?token=exp=1620281156~hmac=e7ec1c8a78064ba9bd21ae207250d95e" />][linkedin]
 [<img align="left" alt="Leonardo | Portfólio" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/2400/2400410.svg?token=exp=1620278921~hmac=799f1fb6299a55806fe06c1259db7cb7" />][website]
 [<img align="left" alt="Leonardo | Instagram" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/930/930308.svg?token=exp=1620279708~hmac=6048416974c0e920387e646f540c9d9e" />][instagram]
 
