@@ -9,7 +9,7 @@
 
 [linkedin]: https://www.linkedin.com/in/leonardojosedasilveira/
 [instagram]: https://www.instagram.com/leonardojosedasilveira/
-[website]: leonardojosedasilveira.github.io/
+[website]: https://leonardojosedasilveira.github.io/
 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
@@ -41,7 +41,7 @@ EDITING -
 
 [<img align="left" alt="Leonardo | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" />][linkedin]
 [<img align="left" alt="Leonardo | Portfólio" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2400/2400410.svg?token=exp=1620278921~hmac=799f1fb6299a55806fe06c1259db7cb7" />][website]
-[<img align="left" alt="Leonardo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Leonardo | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/930/930308.svg?token=exp=1620279708~hmac=6048416974c0e920387e646f540c9d9e" />][instagram]
 
 <br />
 
