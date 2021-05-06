@@ -3,14 +3,13 @@
 Instruction - codeSTACKr - https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s
 Friend example - LeonarDev - https://github.com/LeonarDev
 
-Linkedin icon - linkedin - 
-Page icon - linkedin - 
-Instagram icon - linkedin - 
+Linkedin icon - freepik - https://www.flaticon.com/authors/freepik
+Page icon - surang - https://www.flaticon.com/br/autores/surang
+Instagram icon - vitaly-gorbachev - https://www.flaticon.com/authors/vitaly-gorbachev
 
 -->
 
 <!-- Links -->
-
 
 [linkedin]: https://www.linkedin.com/in/leonardojosedasilveira/
 [instagram]: https://www.instagram.com/leonardojosedasilveira/
@@ -20,7 +19,6 @@ Instagram icon - linkedin -
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
 
 <!-- Links / -->
 
@@ -52,6 +50,7 @@ EDITING -
 
 ### Languages and Tools:
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
