@@ -18,10 +18,15 @@ Other icons - https://simpleicons.org/
 [instagram]: https://www.instagram.com/leonardojosedasilveira/
 [website]: https://leonardojosedasilveira.github.io/
 
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[vscode]: coloqueOlinkAqui
+[webdevplaylist]: coloqueOlinkAqui
+[webdevplaylist]: coloqueOlinkAqui
+[webdevplaylist]: coloqueOlinkAqui
+[webdevplaylist]: coloqueOlinkAqui
+[webdevplaylist]: coloqueOlinkAqui
+[webdevplaylist]: coloqueOlinkAqui
+[webdevplaylist]: coloqueOlinkAqui
+[webdevplaylist]: coloqueOlinkAqui
 
 <!-- Links / -->
 
@@ -54,7 +59,9 @@ EDITING -
 ### Languages and Tools:
 
  
-[<img align="left" alt="Visual Studio Code" width="100px" src="https://img.shields.io/badge/baum-black?style=flat&logo=visual-studio&logoColor=blue" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="100px" src="https://img.shields.io/badge/baum-black?style=flat&logo=visual-studio&logoColor=blue" />][vscode]
+
+
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
