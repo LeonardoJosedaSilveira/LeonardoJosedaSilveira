@@ -67,8 +67,8 @@ EDITING -
 
 <br />
 
-[<img alt="Visual Studio Code" width="200px" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual-studio&logoColor=blue" />][vscode]
-[<img alt="Java Script" width="140px" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=#F7DF1E" />][js]
+[<img alt="Visual Studio Code" width="195px" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual-studio&logoColor=blue" />][vscode]
+[<img alt="Java Script" width="135px" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=#F7DF1E" />][js]
 [<img alt="Java Script" width="110px" src="https://img.shields.io/badge/HTML%205-black?style=flat&logo=html5&logoColor=#E34F26" />][html5]
 [<img alt="Java Script" width="100px" src="https://img.shields.io/badge/CSS%203-black?style=flat&logo=css3&logoColor=blue" />][css3]
 [<img alt="Java Script" width="110px" src="https://img.shields.io/badge/Node%20Js-black?style=flat&logo=node.js&logoColor=#339933" />][nodeJs]
