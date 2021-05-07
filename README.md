@@ -61,6 +61,7 @@ EDITING -
 [<img align="left" alt="Leonardo | Portfólio" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/2400/2400410.svg?token=exp=1620278921~hmac=799f1fb6299a55806fe06c1259db7cb7" />][website]
 [<img align="left" alt="Leonardo | Instagram" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/930/930308.svg?token=exp=1620279708~hmac=6048416974c0e920387e646f540c9d9e" />][instagram]
 
+
 ### Languages and Tools:
 
 [<img alt="Visual Studio Code" width="195px" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual-studio&logoColor=blue" />][vscode]
