@@ -80,9 +80,9 @@ EDITING -
 [<img alt="Java Script" width="90px" src="https://img.shields.io/badge/Trello-black?style=flat&logo=trello&logoColor=blue" />][trello]
 [<img alt="Java Script" width="90px" src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=#F24E1E" />][figma]
 [<img alt="Java Script" width="90px" src="https://img.shields.io/badge/Slack-black?style=flat&logo=slack&logoColor=purple" />][slack]
-[<img alt="Java Script" width="90px" src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=#FCC624" />][linux]
-[<img alt="Java Script" width="90px" src="https://img.shields.io/badge/Eslint-black?style=flat&logo=eslint&logoColor=purple" />][ESLint]
-[<img alt="Java Script" width="140px" src="https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown&logoColor=#000000" />][Markdown]
+[<img alt="Java Script" width="95px" src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=#FCC624" />][linux]
+[<img alt="Java Script" width="95px" src="https://img.shields.io/badge/Eslint-black?style=flat&logo=eslint&logoColor=purple" />][ESLint]
+[<img alt="Java Script" width="145px" src="https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown&logoColor=#000000" />][Markdown]
 
 <br />
 
