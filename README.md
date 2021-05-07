@@ -67,11 +67,11 @@ EDITING -
 
 <br />
 
-[<img alt="Visual Studio Code" width="180px" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual-studio&logoColor=blue" />][vscode]
-[<img alt="Java Script" width="120px" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=#F7DF1E" />][js]
+[<img alt="Visual Studio Code" width="200px" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual-studio&logoColor=blue" />][vscode]
+[<img alt="Java Script" width="200px" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=#F7DF1E" />][js]
 [<img alt="Java Script" width="120px" src="https://img.shields.io/badge/HTML%205-black?style=flat&logo=html5&logoColor=#E34F26" />][html5]
 [<img alt="Java Script" width="120px" src="https://img.shields.io/badge/CSS%203-black?style=flat&logo=css3&logoColor=blue" />][css3]
-[<img alt="Java Script" width="120px" src="https://img.shields.io/badge/Node%20Js-black?style=flat&logo=node.js&logoColor=#339933" />][nodeJs]
+[<img alt="Java Script" width="130px" src="https://img.shields.io/badge/Node%20Js-black?style=flat&logo=node.js&logoColor=#339933" />][nodeJs]
 [<img alt="Java Script" width="120px" src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=#61DAFB" />][react]
 [<img alt="Java Script" width="120px" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" />][gitHub]
 [<img alt="Java Script" width="120px" src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=#F05032" />][git]
