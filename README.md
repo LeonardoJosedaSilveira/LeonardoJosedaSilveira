@@ -10,6 +10,9 @@ Instagram icon - vitaly-gorbachev - https://www.flaticon.com/authors/vitaly-gorb
 Shilds for icons - https://shields.io/
 Other icons - https://simpleicons.org/
 
+image mountains field - https://stocksnap.io/author/mattbangophotos
+image autumn leaves photo - https://stocksnap.io/author/flodahm
+
 -->
 
 <!-- Links -->
@@ -49,7 +52,6 @@ EDITING -
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
-
 
 ### 🎧 Spotify Playing 🤘
 
@@ -126,4 +128,5 @@ EDITING -
 <details>
   <summary>A kind of beautiful place that i like</summary>
     <img align="center" width="400px" alt="The pasture is a beautiful place" src="https://cdn.stocksnap.io/img-thumbs/960w/mountains-field_QQKLNHSKVO.jpg" /> 
+    <img align="center" width="400px" alt="The pasture is a beautiful place" src="https://cdn.stocksnap.io/img-thumbs/960w/autumn-leaves_VWCAICDB8W.jpg" /> 
 </details>
