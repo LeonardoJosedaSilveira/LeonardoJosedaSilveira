@@ -37,7 +37,7 @@ Other icons - https://simpleicons.org/
 
 <!-- Links / -->
 
-### Hey Batuta, my name is Leo and welcome to my Github 🤘
+### Hey batuta? My name is Leo and welcome to my Github 🤘
 
 EDITING - 
 
