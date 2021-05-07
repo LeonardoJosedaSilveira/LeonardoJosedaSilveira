@@ -123,7 +123,7 @@ EDITING -
 
 <!-- display status -->
 
-<details>
+> <details>
   <summary>A kind of beautiful place that i like</summary>
-  > <img align="center" width="400px" alt="The pasture is a beautiful place" src="https://cdn.stocksnap.io/img-thumbs/960w/mountains-field_QQKLNHSKVO.jpg" /> 
+    <img align="center" width="400px" alt="The pasture is a beautiful place" src="https://cdn.stocksnap.io/img-thumbs/960w/mountains-field_QQKLNHSKVO.jpg" /> 
 </details>
