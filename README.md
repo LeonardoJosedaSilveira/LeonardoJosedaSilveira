@@ -63,6 +63,7 @@ EDITING -
 [<img align="left" alt="Leonardo | Instagram" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/930/930308.svg?token=exp=1620279708~hmac=6048416974c0e920387e646f540c9d9e" />][instagram]
 
 <br />
+<br />
 
 ### Languages and Tools:
 
