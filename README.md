@@ -65,7 +65,8 @@ EDITING -
 
 ### Languages and Tools:
 
-<!--  
+<br />
+
 [<img align="left" alt="Visual Studio Code" width="180px" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual-studio&logoColor=blue" />][vscode]
 [<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=#F7DF1E" />][js]
 [<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/HTML%205-black?style=flat&logo=html5&logoColor=#E34F26" />][html5]
@@ -82,14 +83,7 @@ EDITING -
 [<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=#FCC624" />][linux]
 [<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/Eslint-black?style=flat&logo=eslint&logoColor=purple" />][ESLint]
 [<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown&logoColor=#000000" />][Markdown]
- -->
 
-
-
-
-
-
-<br />
 <br />
 
 ---
