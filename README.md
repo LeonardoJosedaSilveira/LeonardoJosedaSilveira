@@ -116,16 +116,14 @@ EDITING -
 
 --- -->
 
-<details>
-  <summary>  </summary>
-  
-<img align="center" width="400px" alt="The pasture is a beautiful place" src="https://cdn.stocksnap.io/img-thumbs/960w/mountains-field_QQKLNHSKVO.jpg" /> 
-
-</details>
-
 <!-- display status -->
 
   <img align="left" width="400px" alt="LeonardoJosedaSilveira GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LeonardoJosedaSilveira&theme=dark&show_icons=true&hide_border=true" /> 
   <img align="rigth" width="400px" alt="LeonardoJosedaSilveira Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJosedaSilveira&theme=dark&layout=compact&hide_border=true" /> 
 
 <!-- display status -->
+
+<details>
+  <summary>A kind of beautiful place that i like</summary>
+  > <img align="center" width="400px" alt="The pasture is a beautiful place" src="https://cdn.stocksnap.io/img-thumbs/960w/mountains-field_QQKLNHSKVO.jpg" /> 
+</details>
