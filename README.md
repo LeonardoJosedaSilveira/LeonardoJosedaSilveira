@@ -70,10 +70,9 @@ EDITING -
 [<img align="left" alt="Visual Studio Code" width="180px" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual-studio&logoColor=blue" />][vscode]
 [<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=yelow" />][js]
 [<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/HTML%205-black?style=flat&logo=html5&logoColor=orange" />][html5]
-
-[css3]
-[nodeJs]
-[react]
+[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/CSS%203-black?style=flat&logo=css3&logoColor=blue" />][css3]
+[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/Node%20Js-black?style=flat&logo=node.js&logoColor=green" />][nodeJs]
+[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=lithblue" />][react]
 [gitHub]
 [git]
 [gnuBash]
