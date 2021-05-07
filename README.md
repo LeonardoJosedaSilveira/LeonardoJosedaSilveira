@@ -117,9 +117,9 @@ EDITING -
 --- -->
 
 <details>
-  <summary> Recent GitHub Activity</summary>
+  <summary>  </summary>
   
-<img align="center" width="400px" alt="The pasture is a beautiful place" src="https://cdn.stocksnap.io/img-thumbs/960w/mountains-field_QQKLNHSKVO.jpg&hide_border=true" /> 
+<img align="center" width="400px" alt="The pasture is a beautiful place" src="https://cdn.stocksnap.io/img-thumbs/960w/mountains-field_QQKLNHSKVO.jpg" /> 
 
 </details>
 
