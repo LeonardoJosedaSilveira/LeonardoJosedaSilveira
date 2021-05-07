@@ -18,22 +18,22 @@ Other icons - https://simpleicons.org/
 [instagram]: https://www.instagram.com/leonardojosedasilveira/
 [website]: https://leonardojosedasilveira.github.io/
 
-[vsCode]: coloqueOlinkAqui
-[js]: coloqueOlinkAqui
-[html5]: coloqueOlinkAqui
-[css3]: coloqueOlinkAqui
-[nodeJs]: coloqueOlinkAqui
-[react]: coloqueOlinkAqui
-[gitHub]: coloqueOlinkAqui
-[git]: coloqueOlinkAqui
-[gnuBash]: coloqueOlinkAqui
-[jest]: coloqueOlinkAqui
-[trello]: coloqueOlinkAqui
-[figma]: coloqueOlinkAqui
-[slack]: coloqueOlinkAqui
-[linux]: coloqueOlinkAqui
-[ESLint]: coloqueOlinkAqui
-[Markdown]: coloqueOlinkAqui
+[vsCode]: https://code.visualstudio.com/learn
+[js]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+[html5]: https://developer.mozilla.org/en-US/docs/Learn/HTML
+[css3]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
+[nodeJs]: https://nodejs.org/en/docs/
+[react]: https://reactjs.org/docs/getting-started.html
+[gitHub]: https://docs.github.com/en
+[git]: https://git-scm.com/doc
+[gnuBash]: https://www.gnu.org/software/bash/manual/
+[jest]: https://jestjs.io/docs/getting-started
+[trello]: https://trello.com
+[figma]: https://www.figma.com
+[slack]: https://slack.com/intl/pt-br/
+[linux]: https://www.gnu.org/distros/free-distros.html
+[ESLint]: https://eslint.org/docs/user-guide/
+[Markdown]: https://www.markdownguide.org/getting-started/
 
 <!-- Links / -->
 
