@@ -37,7 +37,7 @@ Other icons - https://simpleicons.org/
 
 <!-- Links / -->
 
-### Eai Batuta, me chamo Leo bem vindo do meu Github 🤘
+### Hey Batuta, my name is Leo and welcome to my Github 🤘
 
 EDITING - 
 
@@ -86,7 +86,6 @@ EDITING -
 
 ---
 
-
 <!--                           NEXT DOOR 
 
 ### 📺 Latest YouTube Videos
@@ -100,7 +99,6 @@ EDITING -
 <!-- YOUTUBE:END 
 
 ➡️ [more videos...](https://youtube.com/codestackr)
-
 
 ---
 
@@ -116,27 +114,27 @@ EDITING -
 
 ➡️ [more blog posts...](https://codestackr.com)
 
----
+--- -->
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity
+START_SECTION:activity
 1. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 2. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 3. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-<!--END_SECTION:activity
+END_SECTION:activity
 
 </details>
-<!--  -->
-<!-- <details>
+
+ <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details> -->
+</details> 
 
 <!-- display status -->
 
