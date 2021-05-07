@@ -57,16 +57,11 @@ EDITING -
 -->
 ### Connect with me:
 
-<br />
-
 [<img align="left" alt="Leonardo | LinkedIn" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384171.svg?token=exp=1620281309~hmac=c8f4e9fccf59c494c3be93ec9c816f69" />][linkedin]
 [<img align="left" alt="Leonardo | Portfólio" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/2400/2400410.svg?token=exp=1620278921~hmac=799f1fb6299a55806fe06c1259db7cb7" />][website]
 [<img align="left" alt="Leonardo | Instagram" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/930/930308.svg?token=exp=1620279708~hmac=6048416974c0e920387e646f540c9d9e" />][instagram]
 
-<br />
-
 ### Languages and Tools:
-<br />
 
 [<img alt="Visual Studio Code" width="195px" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual-studio&logoColor=blue" />][vscode]
 [<img alt="Java Script" width="135px" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=#F7DF1E" />][js]
@@ -84,8 +79,6 @@ EDITING -
 [<img alt="Java Script" width="95px" src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=#FCC624" />][linux]
 [<img alt="Java Script" width="95px" src="https://img.shields.io/badge/Eslint-black?style=flat&logo=eslint&logoColor=purple" />][ESLint]
 [<img alt="Java Script" width="145px" src="https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown&logoColor=#000000" />][Markdown]
-
-<br />
 
 ---
 
