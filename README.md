@@ -67,22 +67,22 @@ EDITING -
 
 <br />
 
-[<img align="left" alt="Visual Studio Code" width="180px" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual-studio&logoColor=blue" />][vscode]
-[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=#F7DF1E" />][js]
-[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/HTML%205-black?style=flat&logo=html5&logoColor=#E34F26" />][html5]
-[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/CSS%203-black?style=flat&logo=css3&logoColor=blue" />][css3]
-[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/Node%20Js-black?style=flat&logo=node.js&logoColor=#339933" />][nodeJs]
-[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=#61DAFB" />][react]
-[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" />][gitHub]
-[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=#F05032" />][git]
-[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/GNU%20Bash-black?style=flat&logo=gnu-bash&logoColor=#4EAA25" />][gnuBash]
-[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/Jest%20Code-black?style=flat&logo=jest&logoColor=red" />][jest]
-[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/Trello-black?style=flat&logo=trello&logoColor=blue" />][trello]
-[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=#F24E1E" />][figma]
-[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/Slack-black?style=flat&logo=slack&logoColor=purple" />][slack]
-[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=#FCC624" />][linux]
-[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/Eslint-black?style=flat&logo=eslint&logoColor=purple" />][ESLint]
-[<img align="left" alt="Java Script" width="120px" src="https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown&logoColor=#000000" />][Markdown]
+[<img alt="Visual Studio Code" width="180px" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual-studio&logoColor=blue" />][vscode]
+[<img alt="Java Script" width="120px" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=#F7DF1E" />][js]
+[<img alt="Java Script" width="120px" src="https://img.shields.io/badge/HTML%205-black?style=flat&logo=html5&logoColor=#E34F26" />][html5]
+[<img alt="Java Script" width="120px" src="https://img.shields.io/badge/CSS%203-black?style=flat&logo=css3&logoColor=blue" />][css3]
+[<img alt="Java Script" width="120px" src="https://img.shields.io/badge/Node%20Js-black?style=flat&logo=node.js&logoColor=#339933" />][nodeJs]
+[<img alt="Java Script" width="120px" src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=#61DAFB" />][react]
+[<img alt="Java Script" width="120px" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" />][gitHub]
+[<img alt="Java Script" width="120px" src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=#F05032" />][git]
+[<img alt="Java Script" width="120px" src="https://img.shields.io/badge/GNU%20Bash-black?style=flat&logo=gnu-bash&logoColor=#4EAA25" />][gnuBash]
+[<img alt="Java Script" width="120px" src="https://img.shields.io/badge/Jest%20Code-black?style=flat&logo=jest&logoColor=red" />][jest]
+[<img alt="Java Script" width="120px" src="https://img.shields.io/badge/Trello-black?style=flat&logo=trello&logoColor=blue" />][trello]
+[<img alt="Java Script" width="120px" src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=#F24E1E" />][figma]
+[<img alt="Java Script" width="120px" src="https://img.shields.io/badge/Slack-black?style=flat&logo=slack&logoColor=purple" />][slack]
+[<img alt="Java Script" width="120px" src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=#FCC624" />][linux]
+[<img alt="Java Script" width="120px" src="https://img.shields.io/badge/Eslint-black?style=flat&logo=eslint&logoColor=purple" />][ESLint]
+[<img alt="Java Script" width="120px" src="https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown&logoColor=#000000" />][Markdown]
 
 <br />
 
