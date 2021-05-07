@@ -66,7 +66,6 @@ EDITING -
 <br />
 
 ### Languages and Tools:
-
 <br />
 
 [<img alt="Visual Studio Code" width="195px" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual-studio&logoColor=blue" />][vscode]
