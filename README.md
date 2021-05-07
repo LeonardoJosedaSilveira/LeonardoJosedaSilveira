@@ -55,12 +55,14 @@ EDITING -
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 -->
+
 ### Connect with me:
 
 [<img align="left" alt="Leonardo | LinkedIn" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384171.svg?token=exp=1620281309~hmac=c8f4e9fccf59c494c3be93ec9c816f69" />][linkedin]
 [<img align="left" alt="Leonardo | Portfólio" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/2400/2400410.svg?token=exp=1620278921~hmac=799f1fb6299a55806fe06c1259db7cb7" />][website]
 [<img align="left" alt="Leonardo | Instagram" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/930/930308.svg?token=exp=1620279708~hmac=6048416974c0e920387e646f540c9d9e" />][instagram]
 
+<br>
 
 ### Languages and Tools:
 
