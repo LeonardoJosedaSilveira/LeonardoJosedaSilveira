@@ -60,7 +60,7 @@ EDITING -
 
 [<img align="left" alt="Leonardo | LinkedIn" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384171.svg?token=exp=1620404815~hmac=c272a65e09b52a17e950ec92ee798d88" />][linkedin]
 [<img align="left" alt="Leonardo | Portfólio" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/2400/2400410.svg?token=exp=1620278921~hmac=799f1fb6299a55806fe06c1259db7cb7" />][website]
-[<img align="left" alt="Leonardo | Instagram" width="25px" src="https://i.postimg.cc/YqBvSbyZ/instagranico.png" />][instagram]
+[<img align="left" alt="Leonardo | Instagram" width="25px" src="https://freepngimg.com/thumb/sunglasses/8-2-sunglasses-png-image.png" />][instagram]
 
 <br />
 <br />
