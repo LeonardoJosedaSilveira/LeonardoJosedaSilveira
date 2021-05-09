@@ -55,7 +55,7 @@ image autumn leaves photo - https://stocksnap.io/author/flodahm
 
 ### Connect with me:
 
-[<img align="left" alt="Leonardo | LinkedIn" width="25px" src="https://1.bp.blogspot.com/-csHz5cVqnl8/YJWpqsigyII/AAAAAAAAGkQ/DU-rezm2Fhgq6oiD2zsk_urI65KE4Ug3QCLcBGAsYHQ/s640/linkedin.png" />][linkedin]
+[<img align="left" alt="Leonardo | LinkedIn" target="_blank" width="25px" src="https://1.bp.blogspot.com/-csHz5cVqnl8/YJWpqsigyII/AAAAAAAAGkQ/DU-rezm2Fhgq6oiD2zsk_urI65KE4Ug3QCLcBGAsYHQ/s640/linkedin.png" />][linkedin]
 [<img align="left" alt="Leonardo | Portfólio" width="35px" src="https://1.bp.blogspot.com/-Ljm-BL_PdlU/YJWpKr2w6oI/AAAAAAAAGkE/9FhAXMzss2UMZyjwtSur3Oc6_j0cEGUuACLcBGAsYHQ/s512/Page.png" />][website]
 [<img align="left" alt="Leonardo | Instagram" width="25px" src="https://1.bp.blogspot.com/-QuRtg-w91RI/YJWpqvgvfhI/AAAAAAAAGkM/-FyzG4u-EBU3EUlEj5b9xLHpE_yjgKQewCLcBGAsYHQ/s368/instagran.png" />][instagram]
 
