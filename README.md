@@ -85,7 +85,7 @@ image autumn leaves photo - https://stocksnap.io/author/flodahm
 
 <!-- display status -->
 
-  <img align="left" width="400px" alt="LeonardoJosedaSilveira GitHub Stats" src="&theme=dark&show_icons=true&hide_border=true" /> 
+  <img align="left" width="400px" alt="LeonardoJosedaSilveira GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LeonardoJosedaSilveira&theme=dark&show_icons=true&hide_border=true" /> 
   <img align="rigth" width="400px" alt="LeonardoJosedaSilveira Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJosedaSilveira&theme=dark&layout=compact&hide_border=true" /> 
 
 <!-- display status -->
