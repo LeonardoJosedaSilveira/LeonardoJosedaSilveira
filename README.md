@@ -35,9 +35,12 @@ image autumn leaves photo - https://stocksnap.io/author/flodahm
 [figma]: https://www.figma.com
 [slack]: https://slack.com/intl/pt-br/
 [linux]: https://www.gnu.org/distros/free-distros.html
-[ESLint]: https://eslint.org/docs/user-guide/
 [Markdown]: https://www.markdownguide.org/getting-started/
-
+[MySQL]: https://dev.mysql.com/doc/
+[MongoDB]: https://docs.mongodb.com/manual/introduction/
+[Sequelize]: https://sequelize.org/master/index.html
+[Python]: https://docs.python.org/3/
+[Express]: https://expressjs.com/pt-br/
 <!-- Links / -->
 
 ### Hey batuta? My name is Leo and welcome to my Github 🤘
@@ -64,21 +67,25 @@ image autumn leaves photo - https://stocksnap.io/author/flodahm
 
 ### Languages and Tools:
 
-[<img alt="Visual Studio Code" width="195px" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual-studio&logoColor=blue" />][vscode]
+[<img alt="Node JS" width="100px" src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=#339933" />][Python]
+[<img alt="Node JS" width="108px" src="https://img.shields.io/badge/Node%20Js-black?style=flat&logo=node.js&logoColor=#339933" />][nodeJs]
 [<img alt="Java Script" width="130px" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=#F7DF1E" />][js]
+[<img alt="Visual Studio Code" width="195px" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual-studio&logoColor=blue" />][vscode]
+[<img alt="MongoDB" width="109px" src="https://img.shields.io/badge/Express-black?style=flat&logo=Express&logoColor=#4EAA2" />][Express]
+[<img alt="MongoDB" width="124px" src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=MongoDB&logoColor=#4EAA2" />][MongoDB]
+[<img alt="MySQL" width="103px" src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=#4EAA2" />][MySQL]
+[<img alt="Git" width="66px" src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=#F05032" />][git]
+[<img alt="Git Hub" width="100px" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" />][gitHub]
+[<img alt="Sequelize" width="124px" src="https://img.shields.io/badge/Sequelize-black?style=flat&logo=sequelize&logoColor=#F05032" />][Sequelize]
 [<img alt="HTML 5" width="105px" src="https://img.shields.io/badge/HTML%205-black?style=flat&logo=html5&logoColor=#E34F26" />][html5]
 [<img alt="CSS 3" width="93px" src="https://img.shields.io/badge/CSS%203-black?style=flat&logo=css3&logoColor=blue" />][css3]
-[<img alt="Node JS" width="108px" src="https://img.shields.io/badge/Node%20Js-black?style=flat&logo=node.js&logoColor=#339933" />][nodeJs]
 [<img alt="React" width="90px" src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=#61DAFB" />][react]
-[<img alt="Git Hub" width="100px" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" />][gitHub]
-[<img alt="Git" width="66px" src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=#F05032" />][git]
-[<img alt="Gnu Bash" width="127px" src="https://img.shields.io/badge/GNU%20Bash-black?style=flat&logo=gnu-bash&logoColor=#4EAA25" />][gnuBash]
 [<img alt="Jest" width="125px" src="https://img.shields.io/badge/Jest%20Code-black?style=flat&logo=jest&logoColor=red" />][jest]
 [<img alt="Trello" width="92px" src="https://img.shields.io/badge/Trello-black?style=flat&logo=trello&logoColor=blue" />][trello]
 [<img alt="Figma" width="96px" src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=#F24E1E" />][figma]
 [<img alt="Slack" width="90px" src="https://img.shields.io/badge/Slack-black?style=flat&logo=slack&logoColor=purple" />][slack]
 [<img alt="Linux" width="90px" src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=#FCC624" />][linux]
-[<img alt="Eslint" width="95px" src="https://img.shields.io/badge/Eslint-black?style=flat&logo=eslint&logoColor=purple" />][ESLint]
+[<img alt="Gnu Bash" width="127px" src="https://img.shields.io/badge/GNU%20Bash-black?style=flat&logo=gnu-bash&logoColor=#4EAA25" />][gnuBash]
 [<img alt="Markdown" width="138px" src="https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown&logoColor=#000000" />][Markdown]
 
 ---
